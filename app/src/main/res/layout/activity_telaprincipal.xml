@@ -4,6 +4,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/backgraoud"
     tools:context=".telaprincipal">
 
+    <View
+        android:id="@+id/containerUser"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        app:background="@drawable/conteiner_user"
+        app:layout_constraintStar_toStarOf="parent"
+        app:layout_constraintEnd_toEndOff="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+    
 </androidx.constraintlayout.widget.ConstraintLayout>
