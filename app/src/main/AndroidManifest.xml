@@ -14,7 +14,7 @@
         android:theme="@style/Theme.CadastroDeCliente"
         tools:targetApi="31">
         <activity
-            android:name=".FormLogin"
+            android:name=".telaprincipal"
             android:exported="false" />
         <activity
             android:name=".FormCadastro"
@@ -23,7 +23,7 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".telaprincipal"
+            android:name=".FormLogin"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
