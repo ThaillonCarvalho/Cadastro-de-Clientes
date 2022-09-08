@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831943568451",
+    "project_id": "cadastro-de-cliente-97e2d",
+    "storage_bucket": "cadastro-de-cliente-97e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831943568451:android:6f86d4c031915d96c378f6",
+        "android_client_info": {
+          "package_name": "com.example.cadastrodecliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831943568451-n0tnbvfspdrbv806i3jih1n4nbho4av4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbs8aE94PYeng4fiitPNjHa8MWuNppgMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831943568451-n0tnbvfspdrbv806i3jih1n4nbho4av4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
